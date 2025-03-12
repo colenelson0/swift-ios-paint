@@ -20,6 +20,5 @@ The programming language used for this application is Swift, and it uses the lib
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
 * Add the ability to toggle the pen type rather than just the width
 * Adjust the fonts to be better sizes and more visually interesting
