@@ -4,7 +4,7 @@ This program is an iOS application that allows you to make simple artwork and sa
 
 One purpose of making this program was to create something that interests me; I am an artist and have used iOS apps that are similar to this one. Another purpose of making this program was to challenge myself with a programming language that was relatively new and everchanging. Many of the resources on the internet for learning Swift were out of date or unhelpful, so I had to be extra careful in learning how to sufficiently understand the language.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[iOS Drawing App - Demo and Walkthrough](https://www.youtube.com/watch?v=rUCseNdUL40)
 
 # Development Environment
 
